@@ -1,5 +1,5 @@
-// document.getElementById("count-el").innerText = 5
 
+let saveEL = document.getElementById("save-el");
 let countEl = document.getElementById("count-el");
 console.log("count-el");
 
@@ -12,8 +12,11 @@ function increment() {
 
 }
 
-function save() {
 
+function save() {
+    let savedCount = count + " - ";
+    saveEL.textContent += savedCount;
+    countEl.textContent = 0;
 }
 
 function remove() {
