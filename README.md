@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to fire-hydrant-counter 👋</h1>
+<h1 align="center">Welcome to Fire Hydrant Counter 👋</h1>
 <p>
   <a href="https://github.com/ashleydelic/fire-hydrant-counter" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
